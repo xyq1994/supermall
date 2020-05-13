@@ -1,20 +1,25 @@
 <template>
-  <div class="home">
-
+  <div>
+    profile
   </div>
 </template>
-
+    
 <script>
-
 export default {
-  name: 'Home',
+  data () {
+    return {
+    
+    }
+  },
   components: {
+    
+  },
+  methods: {
     
   }
 }
 </script>
-
+    
 <style scoped>
   
 </style>
-
