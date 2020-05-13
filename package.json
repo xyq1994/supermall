@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "supermall",
-=======
-  "name": "my-supermall",
->>>>>>> 1b649f943adc4386bbe393c196ba4f9dda4f5d4b
   "version": "0.1.0",
   "private": true,
   "scripts": {
