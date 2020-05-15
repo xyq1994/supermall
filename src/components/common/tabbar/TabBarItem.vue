@@ -17,11 +17,12 @@ export default {
     path: String,
     activeColor: {
       type: String,
-      default: 'red'
+      default: '#ff5777'
     }
   },
   computed: {
     isActive() {
+      console.log(this.$route.path)
       return this.$route.path.indexOf(this.path) !== -1
     },
     activeStyle() {
